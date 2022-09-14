@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://madhur-cc.github.io/blog/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://madhur.cc/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://madhur-cc.github.io/blog/</loc>
+<loc>https://madhur.cc/</loc>
 </url>
 <url>
-<loc>https://madhur-cc.github.io/blog/about.html</loc>
+<loc>https://madhur.cc/about.html</loc>
 <lastmod>2022-09-12T05:27:21+05:30</lastmod>
 <image:image>
-<image:loc>https://madhur-cc.github.io/blog/media\posts\1/madhurmood.jpg</image:loc>
+<image:loc>https://madhur.cc/media\posts\1/madhurmood.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://madhur-cc.github.io/blog/books.html</loc>
+<loc>https://madhur.cc/books.html</loc>
 <lastmod>2022-09-12T05:19:29+05:30</lastmod>
 </url>
 <url>
-<loc>https://madhur-cc.github.io/blog/what-i-learned-living-on-land-for-5-years.html</loc>
+<loc>https://madhur.cc/what-i-learned-living-on-land-for-5-years.html</loc>
 <lastmod>2022-09-12T05:27:28+05:30</lastmod>
 <image:image>
-<image:loc>https://madhur-cc.github.io/blog/media\posts\10/Madhur4.jpg</image:loc>
+<image:loc>https://madhur.cc/media\posts\10/Madhur4.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
